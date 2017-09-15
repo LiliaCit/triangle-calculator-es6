@@ -1,0 +1,20 @@
+{
+  "name": "triangle-calculator-es6",
+  "version": "0.0.1",
+  "description": "Solve SAS triangle (written in es6)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiliaCit/triangle-calculator-es6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiliaCit/triangle-calculator-es6/issues"
+  },
+  "homepage": "https://github.com/LiliaCit/triangle-calculator-es6#readme"
+}
